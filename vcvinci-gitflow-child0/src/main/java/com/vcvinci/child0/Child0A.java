@@ -8,4 +8,8 @@ package com.vcvinci.child0;
  * @date 2019/9/252:06 下午
  */
 public class Child0A {
+
+    public static void main(String[] args) {
+        System.out.println("hotfix");
+    }
 }
