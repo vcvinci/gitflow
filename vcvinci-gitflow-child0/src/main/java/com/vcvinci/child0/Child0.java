@@ -10,5 +10,8 @@ package com.vcvinci.child0;
 public class Child0 {
     public static void main(String[] args) {
         System.out.println("child0");
+        System.out.println("change0");
     }
+
+
 }
